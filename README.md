@@ -11,7 +11,7 @@
 ## Feature
 
 - Rendered using [PDExtension-js](https://github.com/pardnchiu/PDExtension-js).
-- Use [Font Awesome 6](https://fontawesome.com/v6/search) icons and [Cgfaces](https://cgfaces.com) images.
+- Use [Font Awesome 6](https://fontawesome.com/v6/search) icons and [Cgfaces](https://cgfaces.com) photos.
 - Preview available [Here](https://pardnchiu.github.io/personal-portfolio-page/).
 
 ## Contributor
